@@ -201,3 +201,6 @@ This repository serves as the official landing page for EverDoc. The software is
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of EverDoc today!**
+
+---
+**Last updated:** 2026-11-07 21:19:17 UTC
