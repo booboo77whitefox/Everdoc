@@ -203,4 +203,4 @@ This repository serves as the official landing page for EverDoc. The software is
 **Get the most recent version of EverDoc today!**
 
 ---
-**Last updated:** 2026-11-13 18:20:31 UTC
+**Last updated:** 2026-11-14 00:05:54 UTC
